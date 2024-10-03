@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h3 style="color:tomato;">Who is Yuji Itadori?</h3>
+
+<p style="color:darkblue;">Yuji Itadori is the main character of Jujutsu Kaisen, a popular manga and anime series. He is a kind and selfless individual with a strong sense of justice, who becomes a Jujutsu sorcerer after swallowing a cursed object that contains the soul of a powerful demon.</p>
+
+<p style="color:darkblue;">Black Flash is a curse technique that can actually be mastered by anyone, including Itadori Yuji. It's just that this technique requires extraordinary concentration so it is not easy to master. It's almost impossible to be able to use it multiple times in one fight.
+
+But Yuji could use this technique up to 4 times when he first tried it. Meanwhile, in the Shibuya arc, Yuji can even increase the number up to 9 times. With this, Itadori Yuji has broken the record of Nanami Kento who could only use it 4 times in one fight.</p>
+
+</body>
+</html>
+
+
+<html>
+<head>
+  <title>Page Title</title>
+  <style>
+    body {background-color: white;}
+     {color: tomato;}
+     {color: darkblue;}
+  </style>
+</head>  
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+  
+<p>The content of the body element is displayed in the browser window.</p>
+<p>The content of the title element is displayed in the browser tab, in favorites and in search-engine results.</p>
+
+</body>
+</html>
+
+
+
